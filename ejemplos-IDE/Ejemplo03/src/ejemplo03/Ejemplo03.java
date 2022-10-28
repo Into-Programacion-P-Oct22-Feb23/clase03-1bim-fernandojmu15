@@ -45,6 +45,13 @@ public class Ejemplo03 {
         
         boolean variable9 = false;
         boolean variable10 = true;
+        
+        boolean variable11 = false;
+        //bloean variable11 = false; // incorrecto
+        variable11 = false;
+        variable11 = true;
+        // variable11 = variable6;
+              
     }
     
 }
